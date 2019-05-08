@@ -8,7 +8,7 @@
 
 ## 功能检查
 * 完成对string, number, array, object, false, true, null 7种JSON对象的解析和打印。
-![image](images/2019-05-08 10-42-05屏幕截图.png)
+![image](https://github.com/brokensword2018/my_json_parser/blob/master/images/2019-05-08%2010-42-05%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 
 ## 内存管理检查

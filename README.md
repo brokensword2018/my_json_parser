@@ -8,7 +8,7 @@
 
 ## 功能检查
 * 完成对string, number, array, object, false, true, null 7种JSON对象的解析和打印。
-
+![image](images/2019-05-08 10-42-05屏幕截图.png)
 
 
 ## 内存管理检查

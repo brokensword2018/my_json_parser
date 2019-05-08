@@ -1,0 +1,4 @@
+/home/hejilin/code/gitcode/my_json_parser/build/CMakeFiles/rebuild_cache.dir
+/home/hejilin/code/gitcode/my_json_parser/build/CMakeFiles/edit_cache.dir
+/home/hejilin/code/gitcode/my_json_parser/build/CMakeFiles/myjson.dir
+/home/hejilin/code/gitcode/my_json_parser/build/CMakeFiles/test.dir

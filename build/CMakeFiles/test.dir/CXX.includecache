@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hejilin/code/gitcode/my_json_parser/JSON.h
+string
+-
+memory
+-
+
+/home/hejilin/code/gitcode/my_json_parser/parser.h
+JSON.h
+/home/hejilin/code/gitcode/my_json_parser/JSON.h
+
+/home/hejilin/code/gitcode/my_json_parser/print.h
+JSON.h
+/home/hejilin/code/gitcode/my_json_parser/JSON.h
+
+/home/hejilin/code/gitcode/my_json_parser/test.cpp
+JSON.h
+/home/hejilin/code/gitcode/my_json_parser/JSON.h
+parser.h
+/home/hejilin/code/gitcode/my_json_parser/parser.h
+print.h
+/home/hejilin/code/gitcode/my_json_parser/print.h
+iostream
+-
+string.h
+-
+
